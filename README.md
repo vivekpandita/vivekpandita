@@ -1,6 +1,7 @@
 <h1> <b> 👋 Vivek Pandita</b> </h1>
 <p>🌱 Java, SQL, Typescript, Angular, Ionic </p>
-<p>🏠 India </p>
+<p>💼 ABS </p>
+<p>🏠 Jammu/Pune, India </p>
 
 
 
