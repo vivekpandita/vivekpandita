@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @vivekpandita
-- 🌱 I’m currently working on Java, Angular, Ionic
+<h1> <b> 👋 Vivek Pandita</b> </h1>
+<h2> <b> 🌱 Java, Angular, Ionic </b> </h2>
+<h3> <b> 💒 Jammu/ Pune, India </b></h3>
+
 
 
 <!---
