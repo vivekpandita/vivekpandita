@@ -1,6 +1,7 @@
 <h1> <b> 👋 Vivek Pandita</b> </h1>
-<h2> <b> 🌱 Java, Angular, Ionic </b> </h2>
-<h3> <b> 💒 Jammu/ Pune, India </b></h3>
+<p>🌱 Java, Angular, Ionic </p>
+<p>🏠 India </p>
+
 
 
 
